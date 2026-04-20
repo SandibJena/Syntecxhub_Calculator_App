@@ -9,17 +9,17 @@ CALCY is a modern Android calculator application built using **Kotlin and XML**,
 * ➕ Basic operations: Addition, Subtraction, Multiplication, Division
 * 📐 Scientific functions:
 
-    * Trigonometric: sin, cos, tan
-    * Logarithmic: log, ln
-    * Power & roots: x², √
+  * Trigonometric: sin, cos, tan
+  * Logarithmic: log, ln
+  * Power & roots: x², √
 * 🧮 Smart expression handling (supports parentheses)
 * 🔢 Decimal and percentage calculations
 * ⌫ Backspace functionality
 * 🕘 Calculation History (stored locally using Room Database)
 * 📱 Responsive UI:
 
-    * Portrait → Basic calculator
-    * Landscape → Scientific calculator
+  * Portrait → Basic calculator
+  * Landscape → Scientific calculator
 
 ---
 
@@ -37,19 +37,19 @@ CALCY is a modern Android calculator application built using **Kotlin and XML**,
 
 ### Main Screen (Portrait Mode)
 
-![Main Screen](Screenshot/main_screen.png)
+![Main Screen](main_screen.png)
 
 ### Scientific Mode (Landscape)
 
-![Landscape Mode](Screenshot/landscape_mode.png)
+![Landscape Mode](landscape_mode.png)
 
 ### Calculation Example
 
-![Calculation](Screenshot/calculation_example.png)
+![Calculation](calculation_example.png)
 
 ### History Feature
 
-![History](Screenshot/history_screen.png)
+![History](history_screen.png)
 
 ---
 
