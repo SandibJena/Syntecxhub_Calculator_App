@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CALCY" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/calcy_primary</item>
+        <item name="colorOnPrimary">@color/calcy_on_primary</item>
+        <item name="colorPrimaryContainer">@color/calcy_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/calcy_on_primary_container</item>
+
+        <item name="colorSecondary">@color/calcy_secondary</item>
+        <item name="colorOnSecondary">@color/calcy_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/calcy_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/calcy_on_secondary_container</item>
+
+        <item name="colorSurface">@color/calcy_surface</item>
+        <item name="colorOnSurface">@color/calcy_on_surface</item>
+        <item name="colorSurfaceVariant">@color/calcy_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/calcy_on_surface_variant</item>
+        <item name="colorOutline">@color/calcy_outline</item>
+        <item name="colorOutlineVariant">@color/calcy_outline_variant</item>
+
+        <item name="android:windowBackground">@drawable/bg_app_surface</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/calcy_background</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
+    </style>
+
+    <style name="Theme.CALCY" parent="Base.Theme.CALCY" />
+</resources>

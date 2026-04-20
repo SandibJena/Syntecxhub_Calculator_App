@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="calcy_primary">#8D95FF</color>
+    <color name="calcy_on_primary">#0D1335</color>
+    <color name="calcy_primary_container">#2D3372</color>
+    <color name="calcy_on_primary_container">#E2E5FF</color>
+
+    <color name="calcy_secondary">#6A73D9</color>
+    <color name="calcy_on_secondary">#0B1131</color>
+    <color name="calcy_secondary_container">#31397C</color>
+    <color name="calcy_on_secondary_container">#E3E6FF</color>
+
+    <color name="calcy_background">#090E25</color>
+    <color name="calcy_background_top">#121A43</color>
+    <color name="calcy_background_bottom">#080D22</color>
+    <color name="calcy_surface">#101840</color>
+    <color name="calcy_on_surface">#F2F4FF</color>
+    <color name="calcy_surface_variant">#161E4E</color>
+    <color name="calcy_on_surface_variant">#A9B2F8</color>
+    <color name="calcy_outline">#2C3578</color>
+    <color name="calcy_outline_variant">#21295F</color>
+
+    <color name="calcy_display_bg">#090F2D</color>
+    <color name="calcy_display_text">#F4F6FF</color>
+
+    <color name="calcy_btn_number_bg">#2B3273</color>
+    <color name="calcy_btn_number_text">#EFF2FF</color>
+    <color name="calcy_btn_operator_bg">#4A51A8</color>
+    <color name="calcy_btn_operator_text">#EEF1FF</color>
+    <color name="calcy_btn_action_bg">#A6B4FF</color>
+    <color name="calcy_btn_action_text">#132055</color>
+    <color name="calcy_btn_equal_bg">#F7A2DD</color>
+    <color name="calcy_btn_equal_text">#2C1A42</color>
+    <color name="calcy_btn_function_bg">#394287</color>
+    <color name="calcy_btn_function_text">#E9EDFF</color>
+</resources>

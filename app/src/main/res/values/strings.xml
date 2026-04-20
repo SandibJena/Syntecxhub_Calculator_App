@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CALCY</string>
+    <string name="history">History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear">Clear</string>
+    <string name="history_empty">No history yet</string>
+</resources>
