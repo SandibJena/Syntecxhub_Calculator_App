@@ -37,19 +37,19 @@ CALCY is a modern Android calculator application built using **Kotlin and XML**,
 
 ### Main Screen (Portrait Mode)
 
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](Screenshot/main_screen.png)
 
 ### Scientific Mode (Landscape)
 
-![Landscape Mode](screenshots/landscape_mode.png)
+![Landscape Mode](Screenshot/landscape_mode.png)
 
 ### Calculation Example
 
-![Calculation](screenshots/calculation_example.png)
+![Calculation](Screenshot/calculation_example.png)
 
 ### History Feature
 
-![History](screenshots/history_screen.png)
+![History](Screenshot/history_screen.png)
 
 ---
 
